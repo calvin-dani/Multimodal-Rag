@@ -97,3 +97,4 @@ class AIModelsManager:
 
 # Global instance
 ai_models = AIModelsManager()
+
